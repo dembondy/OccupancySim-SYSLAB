@@ -3,7 +3,7 @@ House occupancy simulator for SYSLAB. It receives a *setup.csv* file as input an
 
 ## Running the simulator
 
-1. Open the setup.json file and adjust the desired parameters
+1. Open the setup.csv file and adjust the desired parameters
 2. Run the following command in the terminal:
 
 ``` python3 OccupancySimulator.py ```
